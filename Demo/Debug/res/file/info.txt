@@ -1,0 +1,5 @@
+1 Li 5202 20 Yuangong 3000
+13 Wang text 20 enager 4000
+1234 Zhao 123 20 Yuan 3040
+100 LI 898 20 DON 3000
+1001 Wangergou 1234 23 worker 1899

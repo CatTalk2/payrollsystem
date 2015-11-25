@@ -1,0 +1,21 @@
+﻿生成启动时间为 2014/9/21 16:06:08。
+     1>项目“G:\School\个人作品\项目开发\QQ\Demo\Demo\Demo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Demo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MainTest.cpp
+         MainTest.cpp
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\School\个人作品\项目开发\QQ\Demo\Debug\Demo.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\School\个人作品\项目开发\QQ\Demo\Debug\Demo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\School\个人作品\项目开发\QQ\Demo\Debug\Demo.lib" /MACHINE:X86 Debug\Demo.res
+         Debug\Demo.obj
+         Debug\DemoDlg.obj
+         Debug\geRen.obj
+         Debug\Info.obj
+         Debug\Insert.obj
+         Debug\MainTest.obj
+         Debug\Search.obj
+         Debug\stdafx.obj
+         Demo.vcxproj -> G:\School\个人作品\项目开发\QQ\Demo\Debug\Demo.exe
+     1>已完成生成项目“G:\School\个人作品\项目开发\QQ\Demo\Demo\Demo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.23
