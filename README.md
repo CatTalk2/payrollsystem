@@ -1,5 +1,5 @@
 # payrollsystem
-C++，MFC实现工资管理系统(未使用数据库，使用读写文件)
+C++，MFC实现工资管理系统(未使用数据库，使用读写文件)，具体参见[软件设计文档](https://github.com/msandroid/payrollsystem/blob/master/软件设计文档.pdf)
 
 
 基本功能要求：
@@ -38,9 +38,8 @@ C++，MFC实现工资管理系统(未使用数据库，使用读写文件)
 
 <img src="https://github.com/msandroid/payrollsystem/blob/master/screenshot/7.png" alt="Drawing"  /> 
  
-* 删除 添加
  <img src="https://github.com/msandroid/payrollsystem/blob/master/screenshot/8.png" alt="Drawing"  /> 
-员工：
+
 * 以工号为登录ID，密码自己设定；
 * 可以查询本人的相关信息；
 
