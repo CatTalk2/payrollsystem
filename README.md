@@ -2,7 +2,8 @@
 C++，MFC实现工资管理系统(未使用数据库，使用读写文件)
 
 
-一，	基本功能要求：
+	基本功能要求：
+	------
 1）	以密码登录系统
  <img src="https://github.com/msandroid/payrollsystem/blob/master/screenshot/1.png" alt="Drawing"  /> 
  
